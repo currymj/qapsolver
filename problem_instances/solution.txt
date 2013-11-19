@@ -1,0 +1,33 @@
+3
+
+0 1 2
+1 0 3
+2 3 0
+
+0 1 2
+1 0 3
+2 3 0
+
+person 2 and 3 should be in offices 1 and 2
+
+person 1 and 2 should be far away. offices 2 and 3 are farthest
+
+person 1 and 3 , offices 1 and 3
+
+person 1 office 3
+person 2 office 2
+person 3 office 1
+
+0 1*3 2*2
+1*3 0 3*1
+2*2 3*1 0
+
+3+4+3+3+4+3 = 20
+
+example of bad
+
+0 1*1 2*2
+1*1 0 3*3
+2*2 3*3 0
+
+1+4+1+9+4+9 = 28
